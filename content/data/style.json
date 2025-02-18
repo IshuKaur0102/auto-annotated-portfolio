@@ -22,7 +22,7 @@
         "size": "5xl",
         "weight": "normal",
         "decoration": "none",
-        "case": "lowercase",
+        "case": "capitalize",
         "letterSpacing": "wide"
     },
     "h3": {
