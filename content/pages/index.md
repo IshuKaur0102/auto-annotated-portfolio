@@ -10,7 +10,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - colors: colors-d
+  - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
     actions:
